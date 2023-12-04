@@ -2,6 +2,17 @@
 
 In this exercise we'll look at introducing service level indicators within the Provenance codebase.
 
+### My Results 
+
+I went through and completed this assignment. The codebase itself had failing tests, which were not included
+in the instructions, so they've been commented out. I also don't have a mac, so I can't use brew. Instead, I set
+up a container with docker and ran prometheus and grafana that way instead. Here's a screenshot of my graph,
+populated and rendered with grafana and prometheus. Cheers! 
+
+Lindsey Choi
+
+![Screenshot](assets/lindsey-choi-grafana-screenshot.png)
+
 ### The Exercise
 
 Capture Provenance metrics!
